@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url("../assets/bg.webp");
+  background-size: cover;
+
+}
+
+h1 {
+  color: white;
+}
